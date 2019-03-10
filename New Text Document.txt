@@ -1,0 +1,28 @@
+<html>
+
+<head>
+
+</head>
+<body style="background-color: black">
+        <h1 style="display:flex;border-style: dotted; justify-content:center;  background-image: linear-gradient(red, yellow); margin: 5px; margin-right:0%">
+                <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+
+        </h1>
+    <p style="display:flex ; color: green; justify-content: center"> random text text te </p>
+
+    <h2 style="display:flex;border-style:double; justify-content:center;  background-image: linear-gradient(green, yellow); margin: 5px; margin-right:0%">
+            <a href="https://66.media.tumblr.com/e75e60b209e57b08cbccd540d947ff70/tumblr_nbq2z80NAq1s5xy3ro3_400.gif">GIF</a>
+
+    </h2>
+<img src="https://66.media.tumblr.com/2a29a324317a09f9744886bb70f5c124/tumblr_nbq2z80NAq1s5xy3ro1_1280.gif"/>
+
+<h3 style="display:flex;border-style: dotted; justify-content:center;  background-image: linear-gradient(blue, yellow); margin: 5px; margin-right:0%">
+        <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+
+</h3>
+<p style="display:flex ; color: green; justify-content: center"> random text text te </p>
+
+</body>
+
+
+</html>
